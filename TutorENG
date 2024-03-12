@@ -1,0 +1,35 @@
+Game mode selection:
+CLASSIC - you have as much time as you want for the gameplay, as the game only ends when the blocks
+no longer fit on the board, i.e., they exceed the top line of the board.
+
+TIME RUSH - the game ends when the time displayed on the side panel elapses, or when you exceed 
+the top line of the board, just like in the CLASSIC option.
+
+Controls:
+~ Right arrow - move the block "1" step to the right.
+~ Left arrow - move the block "1" step to the left.
+~ Down arrow - accelerate the block's descent.
+~ 'Z' key - rotate the block 90 degrees to the left.
+~ 'X' key - rotate the block 90 degrees to the right.
+~ 'C' key - place the block at the bottom of the current path.
+~ 'P' key - pause/resume the game.
+~ 'Esc' key - return to the menu.
+Buttons:
+In the game panel, there is a button labeled "MENU" that allows you to return to the menu panel, 
+but pressing it erases the current progress of the game and does not save the score to the ranking!
+Pressing the 'X' button in the top right corner completely closes the game.
+
+Adding to the ranking:
+To add your score to the ranking after finishing the game, enter your name in the window that 
+appears after the game ends and press the "BECOME DARK SPIRIT" button. If you instead close the 
+window without pressing that button, your score will not be added to the ranking!
+
+Sound:
+You control the volume of the background music using a slider in the menu panel. Setting the slider 
+to 0 mutes the music completely. Volume control is only possible from the MENU panel.
+Soundtrack: Tetris Theme - Contemporary Big Band/Classical Fusion Version (The 8-Bit Big Band)
+(https://youtu.be/wV7GijG9ZWY?feature=shared)
+
+Languages:
+By selecting the appropriate button below the label "Languages," you can set the game language to 
+Polish or English.

@@ -1,0 +1,35 @@
+Wybór trybu gry:
+BEZ CZASU – masz na rozgrywkę tyle czasu ile chcesz, bo gra kończy się dopiero gdy klocki nie będą 
+już mieścić się na planszy, czyli przekroczą górną linię planszy. 
+
+Z CZASEM – gra skończy się gdy upłynie czas wyświetlany na bocznym panelu, lub przekroczysz górną 
+linię planszy, tak jak w opcji BEZ CZASU.
+
+Sterowanie:
+~Strzałka w prawo - przesunięcie klocka “o 1” w prawo.
+~Strzałka w lewo - przesunięcie klocka “o 1” w lewo.
+~Strzałka w dół - przyspieszenie opadania klocka.
+~Klawisz ‘z’ - obrót klocka o 90 stopni w lewo. 
+~Klawisz ‘x’ - obrót klocka o 90 stopni w prawo. 
+~Klawisz ’c’ - umieszczenie klocka na samym dole obecnego toru.
+~Klawisz ‘p’ – pauzowanie/wznawianie gry.
+~Klawisz ‘Esc’ - powrót do menu.
+Przyciski : 
+W panelu gry jest przycisk z napisem „MENU” pozwalający wrócić do panelu menu, jednak jego 
+wciśnięcie kasuje dotychczasowy postęp gry i nie zapisuje wyniku do rankingu! Wciśnięcie przycisku 
+X w prawym górnym rogu powoduje całkowite zamknięcie gry.
+
+Dopisywanie do rankingu:
+Aby dopisać twój wynik do rankingu po zakończonej grze wpisz imię w okienku, które pokaże się po 
+zakończonej grze i wciśnij przycisk „BECOME DARK SPIRIT”. Jeśli nie zamiast tego guzika zamkniesz
+okienko, twój wynik nie zostanie dopisany do rankingu!
+
+Dźwięk:
+Głośnością muzyki w tle sterujesz za pomocą suwaka w panelu menu. Ustawienie suwaka na wartość 0 
+spowoduje całkowite wyciszenie muzyki. Sterowanie głośnością jest możliwe tylko z panelu MENU.
+Soundtrack to utwór: Tetris Theme - Contemporary Big Band/Classical Fusion Version (The 8-Bit Big Band)
+(https://youtu.be/wV7GijG9ZWY?feature=shared)
+
+Języki:
+Zaznaczając odpowiedni przycisk pod napisem „Języki” możesz ustawić język gry na polski lub 
+angielski. 
